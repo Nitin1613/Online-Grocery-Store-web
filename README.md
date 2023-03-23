@@ -1,1 +1,1 @@
-# Web
+# Grocery store website(project)
